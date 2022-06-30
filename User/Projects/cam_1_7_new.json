@@ -4712,8 +4712,8 @@
     "withdraw_code": "<input type=\"hidden\" id=\"withdrawal_code\" name=\"withdrawal_code\"/>\n<script>\nwithdrawal_code = '';\nvar characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';\nvar charactersLength = characters.length;\nfor ( var i = 0; i < 16; i++ ) {\n  withdrawal_code += characters.charAt(Math.floor(Math.random() * charactersLength));\n}\nTrial.set(\"withdrawal_code\",withdrawal_code);\n$(\"#withdrawal_code\").val(withdrawal_code);\nTrial.set_timer(function(){\n  Trial.submit();\n},100);\n</script>",
     "withdrawal_code_show": "<div>\n  <h1>Important information before you finish</h1>\n  \n  Thank you for participating! If you would like to withdraw, please e-mail the following code to the researcher:\n  \n  <h1 class=\"text-primary\" id=\"withdrawal_code\"></h1>\n  <button class=\"btn btn-primary\" onclick=\"Trial.submit()\">Proceed</button>\n  \n</div>\n\n<script>\n\nTrial.set_timer(function(){\n  $(\"#withdrawal_code\").html(Trial.get(\"withdrawal_code\"));\n},100);\n</script>"
   },
-  "location": "dubey-haffey-2/msc-2022/cam_1_7_new",
-  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,\r\ncondition_1,Uncertainty task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,\r\ncondition_2,Uncertainty task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,",
+  "location": "dubey-baruaa/anxiety-and-autism/cam_1_7_new",
+  "conditions": "name,notes,stimuli,procedure,fullscreen,welcome,participant_id,end_message,start_message,buffer,download_at_end,redcap_url_backup,\r\ncondition_1,Uncertainty task,stimuli_1.csv,procedure_1.csv,on,,on,,,5,on,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,\r\ncondition_2,Uncertainty task,stimuli_1.csv,procedure_2.csv,on,,on,,,5,on,https://haffeyprojects.reading.ac.uk/redcap/redcapIndu2022.php,",
   "boosts": {},
   "mods": {},
   "storage_scripts": {},

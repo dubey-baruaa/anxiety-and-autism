@@ -148,7 +148,7 @@
       ],
       [
         "cam_consent_6",
-        "Have you read and understood the Participant Information?",
+        "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
         "checkbox",
         "Yes",
         "1",
@@ -159,10 +159,10 @@
       ],
       [
         "cam_consent_7",
-        "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+        "Do you know how to contact the researcher if you have questions about this study?",
         "checkbox",
         "Yes",
-        "2",
+        "1",
         "No",
         "70%",
         "yes",
@@ -170,10 +170,10 @@
       ],
       [
         "cam_consent_8",
-        "Do you know how to contact the researcher if you have questions about this study?",
+        "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
         "checkbox",
         "Yes",
-        "3",
+        "1",
         "No",
         "70%",
         "yes",
@@ -181,10 +181,10 @@
       ],
       [
         "cam_consent_9",
-        "Do you understand that you are free to withdraw from the study without giving a reason?",
+        "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
         "checkbox",
         "Yes",
-        "4",
+        "1",
         "No",
         "70%",
         "yes",
@@ -192,50 +192,6 @@
       ],
       [
         "cam_consent_10",
-        "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
-        "checkbox",
-        "Yes",
-        "5",
-        "No",
-        "70%",
-        "yes",
-        null
-      ],
-      [
-        "cam_consent_11",
-        "Do you give permission for your data from this study to be shared with other researchers in the future provided that your anonimity is protected?",
-        "checkbox",
-        "Yes",
-        "6",
-        "No",
-        "70%",
-        "yes",
-        null
-      ],
-      [
-        "cam_consent_12",
-        "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
-        "checkbox",
-        "Yes",
-        "7",
-        "No",
-        "70%",
-        "yes",
-        null
-      ],
-      [
-        "cam_consent_13",
-        "I confirm that I am 18 years old or over",
-        "checkbox",
-        "Yes",
-        "8",
-        "No",
-        "70%",
-        "yes",
-        null
-      ],
-      [
-        "cam_consent_14",
         "If you would like a summary of the research findings please insert your email address in this text box",
         "text",
         "",
@@ -246,7 +202,7 @@
         null
       ],
       [
-        "cam_consent_15",
+        "cam_consent_11",
         "If you would like enter the prize draw please insert your email address in this text box",
         "text",
         "",

@@ -1,7 +1,26 @@
 item_name,text,type,answers,values,optional,question_width,side_by_side,
-Instructions1,"<b>Participant Consent</b><br>Interactive form for on-line consent <br><br>	<b>STUDENT RESEARCH PROJECT ETHICS REVIEW</b>	<br>Division of Psychiatry & Applied Psychology<br><br><b>Project Title</b>:    Nature of co-occurring worry in Autism<br><b>Researcher</b>: 	Trishita Barua<br><b>Supervisor</b>: 	Dr. Indu Dubey<br><b>Ethics Reference Number</b>: DPAP - 2022  - 2883 - 3<br>",instruct,,,,,,
+Instructions1,"<b>Participant Consent
+</b><br>
+Interactive form for on-line consent 
+<br>
+
+<br>
+<b>	STUDENT RESEARCH PROJECT ETHICS REVIEW	
+</b><br>
+Division of Psychiatry & Applied Psychology
+<br>
+
+<br>
+Project Title:    <b>Nature of co-occurring worry in Autism</b>
+<br>
+Researcher: 	Trishita Barua
+<br>
+Supervisor: 	Dr. Indu Dubey
+<br>
+Ethics Reference Number: DPAP - 2022 - 2883 - 3
+<br>",instruct,,,,,,
 Instructions2,Please select the following statements if you agree with them. Please feel free to withdraw at any point.,instruct,,,,,,
-cam_consent_1,"1. I confirm that I have read and understood the information sheet dated 25/05/2022 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",likert,Agree,1,No,70%,yes,
+cam_consent_1,"1. I confirm that I have read and understood the information sheet dated 25/05/2020 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",likert,Agree,1,No,70%,yes,
 cam_consent_2,2. I understand that my participation is voluntary and that I am free to withdraw at any time without giving any reason up to two days after completion of the study.,likert,Agree,1,No,70%,yes,
 cam_consent_3,"3. I understand that my unanonymized data might be shared with the named 
 researchers as listed in the information sheet.",likert,Agree,1,No,70%,yes,

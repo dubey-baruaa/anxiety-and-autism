@@ -4536,9 +4536,9 @@
             ],
             [
               "cam_consent_1",
-              "1. I confirm that I have read and understood the information sheet dated 25/05/2020 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",
-              "likert",
-              "Agree",
+              "1. Have you read and understood the Participant Information?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -4547,9 +4547,9 @@
             ],
             [
               "cam_consent_2",
-              "2. I understand that my participation is voluntary and that I am free to withdraw at any time without giving any reason up to two days after completion of the study.",
-              "likert",
-              "Agree",
+              "2. Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -4558,9 +4558,9 @@
             ],
             [
               "cam_consent_3",
-              "3. I understand that my unanonymized data might be shared with the named \nresearchers as listed in the information sheet.",
-              "likert",
-              "Agree",
+              "3. Do you know how to contact the researcher if you have questions about this study?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -4569,9 +4569,9 @@
             ],
             [
               "cam_consent_4",
-              "4. I understand that my anonymized data might be shared with other researchers",
-              "likert",
-              "Agree",
+              "4. Do you understand that you are free to withdraw from the study without giving a reason?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -4580,9 +4580,9 @@
             ],
             [
               "cam_consent_5",
-              "5. I am over 18 years of age and I agree to take part in this study.",
-              "likert",
-              "Agree",
+              "5. Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -4591,7 +4591,7 @@
             ],
             [
               "cam_consent_6",
-              "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+              "6. Do you give permission for your data from this study to be shared with other researchers in the future provided that your anonymity is protected?",
               "checkbox",
               "Yes",
               "1",
@@ -4602,7 +4602,7 @@
             ],
             [
               "cam_consent_7",
-              "Do you know how to contact the researcher if you have questions about this study?",
+              "7. Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
               "checkbox",
               "Yes",
               "1",
@@ -4613,7 +4613,7 @@
             ],
             [
               "cam_consent_8",
-              "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+              "8. I confirm that I am 18 years old or over",
               "checkbox",
               "Yes",
               "1",
@@ -4624,17 +4624,6 @@
             ],
             [
               "cam_consent_9",
-              "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
-              "checkbox",
-              "Yes",
-              "1",
-              "No",
-              "70%",
-              "yes",
-              null
-            ],
-            [
-              "cam_consent_10",
               "If you would like a summary of the research findings please insert your email address in this text box",
               "text",
               "",
@@ -4645,7 +4634,7 @@
               null
             ],
             [
-              "cam_consent_11",
+              "cam_consent_10",
               "If you would like enter the prize draw please insert your email address in this text box",
               "text",
               "",
@@ -4656,14 +4645,14 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
               null
             ]
           ],
@@ -25259,9 +25248,9 @@
             ],
             [
               "cam_consent_1",
-              "1. I confirm that I have read and understood the information sheet dated 25/05/2020 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",
-              "likert",
-              "Agree",
+              "1. Have you read and understood the Participant Information?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -25270,9 +25259,9 @@
             ],
             [
               "cam_consent_2",
-              "2. I understand that my participation is voluntary and that I am free to withdraw at any time without giving any reason up to two days after completion of the study.",
-              "likert",
-              "Agree",
+              "2. Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -25281,9 +25270,9 @@
             ],
             [
               "cam_consent_3",
-              "3. I understand that my unanonymized data might be shared with the named \nresearchers as listed in the information sheet.",
-              "likert",
-              "Agree",
+              "3. Do you know how to contact the researcher if you have questions about this study?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -25292,9 +25281,9 @@
             ],
             [
               "cam_consent_4",
-              "4. I understand that my anonymized data might be shared with other researchers",
-              "likert",
-              "Agree",
+              "4. Do you understand that you are free to withdraw from the study without giving a reason?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -25303,9 +25292,9 @@
             ],
             [
               "cam_consent_5",
-              "5. I am over 18 years of age and I agree to take part in this study.",
-              "likert",
-              "Agree",
+              "5. Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+              "checkbox",
+              "Yes",
               "1",
               "No",
               "70%",
@@ -25314,7 +25303,7 @@
             ],
             [
               "cam_consent_6",
-              "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+              "6. Do you give permission for your data from this study to be shared with other researchers in the future provided that your anonymity is protected?",
               "checkbox",
               "Yes",
               "1",
@@ -25325,7 +25314,7 @@
             ],
             [
               "cam_consent_7",
-              "Do you know how to contact the researcher if you have questions about this study?",
+              "7. Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
               "checkbox",
               "Yes",
               "1",
@@ -25336,7 +25325,7 @@
             ],
             [
               "cam_consent_8",
-              "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+              "8. I confirm that I am 18 years old or over",
               "checkbox",
               "Yes",
               "1",
@@ -25347,17 +25336,6 @@
             ],
             [
               "cam_consent_9",
-              "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
-              "checkbox",
-              "Yes",
-              "1",
-              "No",
-              "70%",
-              "yes",
-              null
-            ],
-            [
-              "cam_consent_10",
               "If you would like a summary of the research findings please insert your email address in this text box",
               "text",
               "",
@@ -25368,7 +25346,7 @@
               null
             ],
             [
-              "cam_consent_11",
+              "cam_consent_10",
               "If you would like enter the prize draw please insert your email address in this text box",
               "text",
               "",
@@ -25379,14 +25357,14 @@
               null
             ],
             [
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
-              null,
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
               null
             ]
           ],
@@ -38675,9 +38653,9 @@
         ],
         [
           "cam_consent_1",
-          "1. I confirm that I have read and understood the information sheet dated 25/05/2020 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",
-          "likert",
-          "Agree",
+          "1. Have you read and understood the Participant Information?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
@@ -38686,9 +38664,9 @@
         ],
         [
           "cam_consent_2",
-          "2. I understand that my participation is voluntary and that I am free to withdraw at any time without giving any reason up to two days after completion of the study.",
-          "likert",
-          "Agree",
+          "2. Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
@@ -38697,9 +38675,9 @@
         ],
         [
           "cam_consent_3",
-          "3. I understand that my unanonymized data might be shared with the named \nresearchers as listed in the information sheet.",
-          "likert",
-          "Agree",
+          "3. Do you know how to contact the researcher if you have questions about this study?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
@@ -38708,9 +38686,9 @@
         ],
         [
           "cam_consent_4",
-          "4. I understand that my anonymized data might be shared with other researchers",
-          "likert",
-          "Agree",
+          "4. Do you understand that you are free to withdraw from the study without giving a reason?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
@@ -38719,9 +38697,9 @@
         ],
         [
           "cam_consent_5",
-          "5. I am over 18 years of age and I agree to take part in this study.",
-          "likert",
-          "Agree",
+          "5. Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
@@ -38730,7 +38708,7 @@
         ],
         [
           "cam_consent_6",
-          "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+          "6. Do you give permission for your data from this study to be shared with other researchers in the future provided that your anonymity is protected?",
           "checkbox",
           "Yes",
           "1",
@@ -38741,7 +38719,7 @@
         ],
         [
           "cam_consent_7",
-          "Do you know how to contact the researcher if you have questions about this study?",
+          "7. Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
           "checkbox",
           "Yes",
           "1",
@@ -38752,7 +38730,7 @@
         ],
         [
           "cam_consent_8",
-          "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+          "8. I confirm that I am 18 years old or over",
           "checkbox",
           "Yes",
           "1",
@@ -38763,17 +38741,6 @@
         ],
         [
           "cam_consent_9",
-          "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
-          "checkbox",
-          "Yes",
-          "1",
-          "No",
-          "70%",
-          "yes",
-          null
-        ],
-        [
-          "cam_consent_10",
           "If you would like a summary of the research findings please insert your email address in this text box",
           "text",
           "",
@@ -38784,7 +38751,7 @@
           null
         ],
         [
-          "cam_consent_11",
+          "cam_consent_10",
           "If you would like enter the prize draw please insert your email address in this text box",
           "text",
           "",
@@ -38795,14 +38762,14 @@
           null
         ],
         [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
           null
         ]
       ],
@@ -48473,18 +48440,18 @@
           "optional",
           "question_width",
           "side_by_side",
-          ""
+          null
         ],
         [
           "Instructions1",
-          "<b>Participant Consent</b>\r<br>\rInteractive form for on-line consent \r<br>\r\r<br>\r\t<b>STUDENT RESEARCH PROJECT ETHICS REVIEW</b>\t\r<br>\rDivision of Psychiatry & Applied Psychology\r<br>\r\r<br>\r<b>Project Title</b>:    Nature of co-occurring worry in Autism\r<br>\r<b>Researcher</b>: \tTrishita Barua\r<br>\r<b>Supervisor</b>: \tDr. Indu Dubey\r<br>\r<b>Ethics Reference Number</b>: DPAP - 2022  - 2883 - 3\r<br>\r",
+          "<b>Participant Consent\n</b><br>\nInteractive form for on-line consent \n<br>\n\n<br>\n<b>\tSTUDENT RESEARCH PROJECT ETHICS REVIEW\t\n</b><br>\nDivision of Psychiatry & Applied Psychology\n<br>\n\n<br>\nProject Title:    <b>Nature of co-occurring worry in Autism</b>\n<br>\nResearcher: \tTrishita Barua\n<br>\nSupervisor: \tDr. Indu Dubey\n<br>\nEthics Reference Number: DPAP - 2022 - 2883 - 3\n<br>",
           "instruct",
           "",
           "",
           "",
           "",
           "",
-          ""
+          null
         ],
         [
           "Instructions2",
@@ -48495,109 +48462,98 @@
           "",
           "",
           "",
-          ""
+          null
         ],
         [
           "cam_consent_1",
-          "1. I confirm that I have read and understood the information sheet dated 25/05/2022 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",
-          "likert",
-          "Agree",
+          "1. Have you read and understood the Participant Information?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_2",
-          "2. I understand that my participation is voluntary and that I am free to withdraw at any time without giving any reason up to two days after completion of the study.",
-          "likert",
-          "Agree",
+          "2. Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_3",
-          "3. I understand that my unanonymized data might be shared with the named \nresearchers as listed in the information sheet.",
-          "likert",
-          "Agree",
+          "3. Do you know how to contact the researcher if you have questions about this study?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_4",
-          "4. I understand that my anonymized data might be shared with other researchers",
-          "likert",
-          "Agree",
+          "4. Do you understand that you are free to withdraw from the study without giving a reason?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_5",
-          "5. I am over 18 years of age and I agree to take part in this study.",
-          "likert",
-          "Agree",
+          "5. Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+          "checkbox",
+          "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_6",
-          "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+          "6. Do you give permission for your data from this study to be shared with other researchers in the future provided that your anonymity is protected?",
           "checkbox",
           "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_7",
-          "Do you know how to contact the researcher if you have questions about this study?",
+          "7. Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
           "checkbox",
           "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_8",
-          "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+          "8. I confirm that I am 18 years old or over",
           "checkbox",
           "Yes",
           "1",
           "No",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
           "cam_consent_9",
-          "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
-          "checkbox",
-          "Yes",
-          "1",
-          "No",
-          "70%",
-          "yes",
-          ""
-        ],
-        [
-          "cam_consent_10",
           "If you would like a summary of the research findings please insert your email address in this text box",
           "text",
           "",
@@ -48605,10 +48561,10 @@
           "",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
-          "cam_consent_11",
+          "cam_consent_10",
           "If you would like enter the prize draw please insert your email address in this text box",
           "text",
           "",
@@ -48616,18 +48572,18 @@
           "",
           "70%",
           "yes",
-          ""
+          null
         ],
         [
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
         ]
       ],
       "cam_debrief.csv": [
@@ -48742,7 +48698,7 @@
         ],
         [
           "Instructions1",
-          "<b>PARTICIPANT INFORMATION\n</b><br>\n\n<br>\n<b>STUDENT RESEARCH PROJECT ETHICS REVIEW\n</b><br>\nDivision of Psychiatry & Applied Psychology\n<br>\n\n<br>\n\n<br>\n<b>Project Title</b>: Nature of co-occurring worry in autism \n<br>\n<b>Researcher/Student</b>: Trishita Barua (msxtb9@nottingham.ac.uk) \n<br>\n<b>Supervisor/Chief Investigator</b>: Dr Indu Dubey, Assistant Professor, University of Nottingham, Nottingham, UK Email: mszid1@exmail.nottingham.ac.uk\n<br>\n<b>Collaborator</b>: Dr Anthony Haffey, Lecturer, School of Psychology & Clinical Language Sciences, University of Reading, Reading, UK Email: a.haffey@reading.ac.uk\n<br>\nEthics Reference Number: DPAP - 2022 - 2883 - 3\n<br>\n\n<br>\nWe would like to invite you to participate in a research study about the different situations through which anxiety affects autistic people. Before you begin, we would like you to understand why the research is being done and what it involves for you. \n<br>\n\n<br>\n\n<br>\n<b>What is the purpose of this study?</b>\n<br>\n\n<br>\nMany people diagnosed with autism also experience significant anxiety that interferes with their everyday lives. This study aims to focus on two mechanisms that possibly cause anxiety in autistic people and if these triggers might be different in autistic and neurotypical people. \n<br>\n\n<br>\nWe cannot promise that the study will help you, but the information we get from this study may help us understand the nature of anxiety and its role in autistic people. This will also help us develop interventions that will possibly be more suitable for autistic people than people who experience general anxiety. \n<br>\n\n<br>\n\n<br>\n<b>Why have I been invited?</b>\n<br>\n\n<br>\nAny adult who is above the age of 18 years and can give consent to participate in this study is invited to take part. However, due to the nature of this study, we are more interested in recruiting people who identify to have autism. You have been invited as you are associated with the organisation/group that aims to support people with a diagnosis of autism. \n<br>\n\n<br>\n<b>Do I have to take part?</b>\n<br>\n\n<br>\nIt is up to you to decide whether to take part. If you choose to take part, you will be given this information sheet to keep and be asked to sign a consent form. You may change your mind about being involved at any time or decline to discuss a particular question. You are free to withdraw at\n<br>\nany point before or during the study without giving a reason.  If you withdraw, we will no longer collect any information about you or from you. Still, we will keep the information about you that we have already obtained as we are not allowed to tamper with study records. This information may have already been used in some analyses and may still be used in the final study analyses. To safeguard your rights, we will use the minimum personally identifiable information possible.  \n<br>\n\n<br>\n\n<br>\n<b>What will I be asked to do?</b>\n<br>\n\n<br>\nIf you choose to take part, you will be asked to follow links to the different parts of the online study. The study has been divided into two parts, and each part has its separate link. You can choose to complete either one or both parts. Each link has two questionnaires and one choice game in them. These questionnaires would have items related to your day-to-day preferences and behaviours. You would be expected to give a response to all the items presented. You will also play a “Choose a movie” game. In this game, you will see two boxes on the screen with different numbers of locks on them. You will be asked to choose any one of the boxes to look at the linked images or videos. To open any box, you must press the keys as many times as the locks on the chosen box. There is no right or wrong way of choosing the boxes, and there is no score for choosing any one box. You will be free to choose any box and look at the images/videos you like. In the end, you will be directed to the completion page. A debrief form will be sent to you via email at the end of your participation in the study. The debrief form will tell you a little more about the study and will provide you with the information about the researcher if you would like to know more about the project.\n<br>\n\n<br>\nYou will be asked to participate in the study using your personal computer or laptop. It is advised not to use your mobile phones for the study. \n<br>\n\n<br>\n\n<br>\n<b>What will happen to the information I provide?</b>\n<br>\n\n<br>\nAll information collected about you during the research will be encrypted and initially saved on a data storage platform endorsed by the University of Nottingham and University of Reading. Only named researchers as listed on top of this document will have access to this data. This data will then be downloaded and decrypted for statistical processing. At this stage, the anonymised data will be saved on password-protected devices and is strictly confidential. You will be given a unique participation ID code which will be used instead of your name. Any identifiable information you may provide will be kept separate from your data. Your anonymised data can be shared with other research teams interested in understating it further.\n<br>\nThe raw data will be stored for up to 10 years after a study has been completed. Members of the faculty human research ethics committee may require access to check that the study has been conducted in accordance with the approval.\n<br>\nYou should also be aware that we may be duty-bound to pass on information that you provide that reveals harm has occurred to a child or other vulnerable individual.\n<br>\n\n<br>\nThe results based on the performance of all the participants will be analysed and submitted for publication in peer-reviewed scientific journals. The student researcher will also use the information for her dissertation for her Masters in Mental Health: Research and Practice course at the University of Nottingham. \n<br>\nYour email ID may also be used if you wish to take part in a prize draw to thank you for your participation in the study. There will 5 prizes for £50 each and the winners will be sent an e-voucher via email. If you wish to enter the prize draw, please let us know in the consent form and we shall add your email ID to a password-protected folder which only the researchers will have access to. This folder will be deleted once the prize winners have been contacted.\n<br>\nAre there any possible disadvantages or risks in taking part?\n<br>\n\n<br>\nParticipation in this study can be tiring as each part may take approximately 35-45 minutes to respond to various questions and games on the computer. Therefore, it is suggested that you take part only when you feel ready to spend the required time on the tasks. Also, for some people making choices, looking at randomly chosen video clips of natural scenes, smiling people, or any ambiguity can be difficult to deal with. If you think you may feel distressed by these, we advise you not to participate in the study. \n<br>\n\n<br>\nIf you do feel distressed after you have participated in the study, please feel free to contact the following services to receive support: \n<br>\n\n<br>\n<b>National Autistic Society</b>: \n<br>\nHelpline number - 0808 800 4104 (Mon-Thurs 10am-4pm; Fri 9am-3pm)\n<br>\n\n<br>\n<b>Autism East Midlands</b>: https://www.autismeastmidlands.org.uk/?gclid=CjwKCAjw7cGUBhA9EiwArBAvohU5O6Iv2ZTVfMKOpfg7kmp9CI8ONdLyk1WKdgw7AwFOtbUcJOCrNxoC3H8QAvD_BwE \n<br>\nHelpline number – 01909 506 678\n<br>\nEmail: enquiries@autismeastmidlands.org.uk \n<br>\n\n<br>\nIf you want general emotional support and want to talk to someone who will listen to you, please don’t hesitate to contact: \n<br>\n\n<br>\n<b>Samaritans</b>:\n<br>\nhttps://www.samaritans.org/ \n<br>\nHelpline: 116 123 (free)\n<br>\nEmail: jo@samaritans.org \n<br>\nOpen 24/7 \n<br>\n\n<br>\n<b>Healthtalk and YouthHealthTalk </b>\n<br>\nhttps://healthtalk.org/ \n<br>\n\n<br>\nData Protection\n<br>\n\n<br>\nWe will follow ethical and legal practices, and all information will be handled in confidence.\n<br>\n\n<br>\nUnder UK Data Protection Laws, the University is the Data Controller (legally responsible for the data security), and the Chief Investigator of this study (named above) is the Data Custodian (manages access to the data). This means we are responsible for looking after your information and using it properly. Your rights to access, change or move your information are limited as we need to manage your data in specific ways to comply with certain laws and for the research to be reliable and accurate. To safeguard your rights, we will use the minimum personally-identifiable information possible.\n<br>\nYou can find out more about how we use your information and read our privacy notice at:\n<br>\n\n<br>\nhttps://www.nottingham.ac.uk/utilities/privacy.aspx\n<br>\n \n<br>\nWe would like your permission to use anonymised data in future studies and share our research data (e.g. in online databases) with other researchers in other Universities and organisations both inside and outside the European Union.  This would be used for research in health and social care. Sharing research data is important to allow peer scrutiny, re-use (and therefore avoid duplication of research), and understand the bigger picture in particular areas of study. All personal information that could identify you will be removed or changed before the information is shared with other researchers or results are made public.\n<br>\n\n<br>\nThe data collected for the study will be looked at and stored by authorised persons from the University of Nottingham organising the research and our named collaborator from the University of Reading. Authorised people from regulatory organisations may also look at them to check that the study is being carried out correctly. All will have a duty of confidentiality to you as a research participant, and we will do our best to meet this duty.\n<br>\n\n<br>\nAt the end of the project, all raw data will be kept securely by the University under the terms of its data protection policy, after which it will be disposed of securely. The data will not be held elsewhere.\n<br>\n\n<br>\nIf you have any questions or concerns, please don’t hesitate to ask. We can be contacted before and after your participation at the email addresses above. \n<br>\n\n<br>\n<b>What if there is a problem?</b>\n<br>\n\n<br>\nIf you have any queries or complaints, please contact the student’s supervisor/chief investigator in the first instance. If this does not resolve your query, please write to the Administrator to the Division of Psychiatry & Applied Psychology’s Research Ethics Sub-Committee adrian.pantry@nottingam.ac.uk, who will pass your question to the Chair of the Committee. \n<br>\nSuppose you remain unhappy and wish to complain formally. In that case, you should then contact the Faculty of Medical and Health Sciences Ethics Committee Administrator, Faculty Hub, Medicine and Health Sciences, E41, E Floor, Medical School, Queen’s Medical Centre Campus, Nottingham University Hospitals, Nottingham, NG7 2UH or via E-mail: FMHS-ResearchEthics@nottingham.ac.uk.\n<br>\n“We believe there are no known risks associated with this research study; however, as with any online activity, the risk of a breach is always possible.  We will do everything possible to ensure your answers in this study will remain anonymous.” \n<br>",
+          "<b>PARTICIPANT INFORMATION\n</b><br>\n\n<br>\n<b>STUDENT RESEARCH PROJECT ETHICS REVIEW\n</b><br>\nDivision of Psychiatry & Applied Psychology\n<br>\n\n<br>\n\n<br>\n<b>Project Title</b>: Nature of co-occurring worry in autism \n<br>\n<b>Researcher/Student</b>: Trishita Barua (msxtb9@nottingham.ac.uk) \n<br>\n<b>Supervisor/Chief Investigator</b>: Dr Indu Dubey, Assistant Professor, University of Nottingham, Nottingham, UK Email: mszid1@exmail.nottingham.ac.uk\n<br>\n<b>Collaborator</b>: Dr Anthony Haffey, Lecturer, School of Psychology & Clinical Language Sciences, University of Reading, Reading, UK Email: a.haffey@reading.ac.uk\n<br>\nEthics Reference Number: DPAP - 2022 - 2883 - 3\n<br>\n\n<br>\nWe would like to invite you to participate in a research study about the different situations through which anxiety affects autistic people. Before you begin, we would like you to understand why the research is being done and what it involves for you. \n<br>\n\n<br>\n\n<br>\n<b>What is the purpose of this study?</b>\n<br>\n\n<br>\nMany people diagnosed with autism also experience significant anxiety that interferes with their everyday lives. This study aims to focus on two mechanisms that possibly cause anxiety in autistic people and if these triggers might be different in autistic and neurotypical people. \n<br>\n\n<br>\nWe cannot promise that the study will help you, but the information we get from this study may help us understand the nature of anxiety and its role in autistic people. This will also help us develop interventions that will possibly be more suitable for autistic people than people who experience general anxiety. \n<br>\n\n<br>\n\n<br>\n<b>Why have I been invited?</b>\n<br>\n\n<br>\nAny adult who is above the age of 18 years and can give consent to participate in this study is invited to take part.\n<br>\n\n<br>\n<b>Do I have to take part?</b>\n<br>\n\n<br>\nIt is up to you to decide whether to take part. If you choose to take part, you will be given this information sheet to keep and be asked to sign a consent form. You may change your mind about being involved at any time or decline to discuss a particular question. You are free to withdraw at\n<br>\nany point before or during the study without giving a reason.  If you withdraw, we will no longer collect any information about you or from you. Still, we will keep the information about you that we have already obtained as we are not allowed to tamper with study records. This information may have already been used in some analyses and may still be used in the final study analyses. To safeguard your rights, we will use the minimum personally identifiable information possible.  \n<br>\n\n<br>\n\n<br>\n<b>What will I be asked to do?</b>\n<br>\n\n<br>\nIf you choose to take part, you will be asked to follow links to the different parts of the online study. The study has been divided into two parts, and each part has its separate link. You can choose to complete either one or both parts. Each link has two questionnaires and one choice game in them. These questionnaires would have items related to your day-to-day preferences and behaviours. You would be expected to give a response to all the items presented. You will also play a “Choose a movie” game. In this game, you will see two boxes on the screen with different numbers of locks on them. You will be asked to choose any one of the boxes to look at the linked images or videos. To open any box, you must press the keys as many times as the locks on the chosen box. There is no right or wrong way of choosing the boxes, and there is no score for choosing any one box. You will be free to choose any box and look at the images/videos you like. In the end, you will be directed to the completion page. A debrief form will be sent to you via email at the end of your participation in the study. The debrief form will tell you a little more about the study and will provide you with the information about the researcher if you would like to know more about the project.\n<br>\n\n<br>\nYou will be asked to participate in the study using your personal computer or laptop. It is advised not to use your mobile phones for the study. \n<br>\n\n<br>\n\n<br>\n<b>What will happen to the information I provide?</b>\n<br>\n\n<br>\nAll information collected about you during the research will be encrypted and initially saved on a data storage platform endorsed by the University of Nottingham and University of Reading. Only named researchers as listed on top of this document will have access to this data. This data will then be downloaded and decrypted for statistical processing. At this stage, the anonymised data will be saved on password-protected devices and is strictly confidential. You will be given a unique participation ID code which will be used instead of your name. Any identifiable information you may provide will be kept separate from your data. Your anonymised data can be shared with other research teams interested in understating it further.\n<br>\nThe raw data will be stored for up to 10 years after a study has been completed. Members of the faculty human research ethics committee may require access to check that the study has been conducted in accordance with the approval.\n<br>\nYou should also be aware that we may be duty-bound to pass on information that you provide that reveals harm has occurred to a child or other vulnerable individual.\n<br>\n\n<br>\nThe results based on the performance of all the participants will be analysed and submitted for publication in peer-reviewed scientific journals. The student researcher will also use the information for her dissertation for her Masters in Mental Health: Research and Practice course at the University of Nottingham. \n<br>\nYour email ID may also be used if you wish to take part in a prize draw to thank you for your participation in the study. There will 5 prizes for £50 each and the winners will be sent an e-voucher via email. If you wish to enter the prize draw, please let us know in the consent form and we shall add your email ID to a password-protected folder which only the researchers will have access to. This folder will be deleted once the prize winners have been contacted.\n<br>\nAre there any possible disadvantages or risks in taking part?\n<br>\n\n<br>\nParticipation in this study can be tiring as each part may take approximately 35-45 minutes to respond to various questions and games on the computer. Therefore, it is suggested that you take part only when you feel ready to spend the required time on the tasks. Also, for some people making choices, looking at randomly chosen video clips of natural scenes, smiling people, or any ambiguity can be difficult to deal with. If you think you may feel distressed by these, we advise you not to participate in the study. \n<br>\n\n<br>\nIf you do feel distressed after you have participated in the study, please feel free to contact the following services to receive support: \n<br>\n\n<br>\n<b>National Autistic Society</b>: \n<br>\nHelpline number - 0808 800 4104 (Mon-Thurs 10am-4pm; Fri 9am-3pm)\n<br>\n\n<br>\n<b>Autism East Midlands</b>: https://www.autismeastmidlands.org.uk/?gclid=CjwKCAjw7cGUBhA9EiwArBAvohU5O6Iv2ZTVfMKOpfg7kmp9CI8ONdLyk1WKdgw7AwFOtbUcJOCrNxoC3H8QAvD_BwE \n<br>\nHelpline number – 01909 506 678\n<br>\nEmail: enquiries@autismeastmidlands.org.uk \n<br>\n\n<br>\nIf you want general emotional support and want to talk to someone who will listen to you, please don’t hesitate to contact: \n<br>\n\n<br>\n<b>Samaritans</b>:\n<br>\nhttps://www.samaritans.org/ \n<br>\nHelpline: 116 123 (free)\n<br>\nEmail: jo@samaritans.org \n<br>\nOpen 24/7 \n<br>\n\n<br>\n<b>Healthtalk and YouthHealthTalk </b>\n<br>\nhttps://healthtalk.org/ \n<br>\n\n<br>\nData Protection\n<br>\n\n<br>\nWe will follow ethical and legal practices, and all information will be handled in confidence.\n<br>\n\n<br>\nUnder UK Data Protection Laws, the University is the Data Controller (legally responsible for the data security), and the Chief Investigator of this study (named above) is the Data Custodian (manages access to the data). This means we are responsible for looking after your information and using it properly. Your rights to access, change or move your information are limited as we need to manage your data in specific ways to comply with certain laws and for the research to be reliable and accurate. To safeguard your rights, we will use the minimum personally-identifiable information possible.\n<br>\nYou can find out more about how we use your information and read our privacy notice at:\n<br>\n\n<br>\nhttps://www.nottingham.ac.uk/utilities/privacy.aspx\n<br>\n \n<br>\nWe would like your permission to use anonymised data in future studies and share our research data (e.g. in online databases) with other researchers in other Universities and organisations both inside and outside the European Union.  This would be used for research in health and social care. Sharing research data is important to allow peer scrutiny, re-use (and therefore avoid duplication of research), and understand the bigger picture in particular areas of study. All personal information that could identify you will be removed or changed before the information is shared with other researchers or results are made public.\n<br>\n\n<br>\nThe data collected for the study will be looked at and stored by authorised persons from the University of Nottingham organising the research and our named collaborator from the University of Reading. Authorised people from regulatory organisations may also look at them to check that the study is being carried out correctly. All will have a duty of confidentiality to you as a research participant, and we will do our best to meet this duty.\n<br>\n\n<br>\nAt the end of the project, all raw data will be kept securely by the University under the terms of its data protection policy, after which it will be disposed of securely. The data will not be held elsewhere.\n<br>\n\n<br>\nIf you have any questions or concerns, please don’t hesitate to ask. We can be contacted before and after your participation at the email addresses above. \n<br>\n\n<br>\n<b>What if there is a problem?</b>\n<br>\n\n<br>\nIf you have any queries or complaints, please contact the student’s supervisor/chief investigator in the first instance. If this does not resolve your query, please write to the Administrator to the Division of Psychiatry & Applied Psychology’s Research Ethics Sub-Committee adrian.pantry@nottingam.ac.uk, who will pass your question to the Chair of the Committee. \n<br>\nSuppose you remain unhappy and wish to complain formally. In that case, you should then contact the Faculty of Medical and Health Sciences Ethics Committee Administrator, Faculty Hub, Medicine and Health Sciences, E41, E Floor, Medical School, Queen’s Medical Centre Campus, Nottingham University Hospitals, Nottingham, NG7 2UH or via E-mail: FMHS-ResearchEthics@nottingham.ac.uk.\n<br>\n“We believe there are no known risks associated with this research study; however, as with any online activity, the risk of a breach is always possible.  We will do everything possible to ensure your answers in this study will remain anonymous.” \n<br>",
           "instruct",
           "",
           "",

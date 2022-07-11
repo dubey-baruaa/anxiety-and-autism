@@ -93,9 +93,9 @@
       ],
       [
         "cam_consent_1",
-        "1. I confirm that I have read and understood the information sheet dated 25/05/2020 for the above study. I have had the opportunity to consider the information, ask questions and have had these answered satisfactorily.",
-        "likert",
-        "Agree",
+        "1. Have you read and understood the Participant Information?",
+        "checkbox",
+        "Yes",
         "1",
         "No",
         "70%",
@@ -104,9 +104,9 @@
       ],
       [
         "cam_consent_2",
-        "2. I understand that my participation is voluntary and that I am free to withdraw at any time without giving any reason up to two days after completion of the study.",
-        "likert",
-        "Agree",
+        "2. Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+        "checkbox",
+        "Yes",
         "1",
         "No",
         "70%",
@@ -115,9 +115,9 @@
       ],
       [
         "cam_consent_3",
-        "3. I understand that my unanonymized data might be shared with the named \nresearchers as listed in the information sheet.",
-        "likert",
-        "Agree",
+        "3. Do you know how to contact the researcher if you have questions about this study?",
+        "checkbox",
+        "Yes",
         "1",
         "No",
         "70%",
@@ -126,9 +126,9 @@
       ],
       [
         "cam_consent_4",
-        "4. I understand that my anonymized data might be shared with other researchers",
-        "likert",
-        "Agree",
+        "4. Do you understand that you are free to withdraw from the study without giving a reason?",
+        "checkbox",
+        "Yes",
         "1",
         "No",
         "70%",
@@ -137,9 +137,9 @@
       ],
       [
         "cam_consent_5",
-        "5. I am over 18 years of age and I agree to take part in this study.",
-        "likert",
-        "Agree",
+        "5. Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+        "checkbox",
+        "Yes",
         "1",
         "No",
         "70%",
@@ -148,7 +148,7 @@
       ],
       [
         "cam_consent_6",
-        "Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?",
+        "6. Do you give permission for your data from this study to be shared with other researchers in the future provided that your anonymity is protected?",
         "checkbox",
         "Yes",
         "1",
@@ -159,7 +159,7 @@
       ],
       [
         "cam_consent_7",
-        "Do you know how to contact the researcher if you have questions about this study?",
+        "7. Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
         "checkbox",
         "Yes",
         "1",
@@ -170,7 +170,7 @@
       ],
       [
         "cam_consent_8",
-        "Do you understand that once you have taken part it may not be technically possible to withdraw your data?",
+        "8. I confirm that I am 18 years old or over",
         "checkbox",
         "Yes",
         "1",
@@ -181,17 +181,6 @@
       ],
       [
         "cam_consent_9",
-        "Do you understand that non-identifiable data from this study including quotations might be used in academic research reports or publications?",
-        "checkbox",
-        "Yes",
-        "1",
-        "No",
-        "70%",
-        "yes",
-        null
-      ],
-      [
-        "cam_consent_10",
         "If you would like a summary of the research findings please insert your email address in this text box",
         "text",
         "",
@@ -202,7 +191,7 @@
         null
       ],
       [
-        "cam_consent_11",
+        "cam_consent_10",
         "If you would like enter the prize draw please insert your email address in this text box",
         "text",
         "",
@@ -213,14 +202,14 @@
         null
       ],
       [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
         null
       ]
     ],

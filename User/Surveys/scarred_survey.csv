@@ -1,4 +1,4 @@
-item_name,text,Type,Answers,Values,Score: SCAARED_Anxiety_Disorder,Score: Panic_somatic,Score: Generalised Anxiety Disorder,Score: Separation Anxiety Disorder,Score: Social Phobia,Optional,
+item_name,text,Type,Answers,Values,score:scaared_anxiety_disorder,score:panic_somatic,score:generalisedanxietydisorder,score:separationanxietydisorder,score:socialphobia,Optional,
 Instructions1,"Below is a list of sentences that describe how people feel. Read each phrase and decide if it is 'Not True or Hardly Ever
 True' or 'Somewhat True or Sometimes True' or 'Very True or Often True' for you. Then, for each sentence, choose
 the box that corresponds to the response that seems to describe you now or within the past 3 months",Instruct,,,,,,,,,

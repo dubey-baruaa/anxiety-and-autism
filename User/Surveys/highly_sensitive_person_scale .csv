@@ -1,6 +1,6 @@
-item_name,text,Type,Answers,Values,Score: hsp_total,Optional,
+item_name,text,type,answers,values,score:hsp_total,optional,
 Instructions1,"Answer each question according to the way you personally feel, using the following scale:
-1=Not at All	     4=Moderately	       7=Extremely",Instruct,,,,,
+1=Not at All	     4=Moderately	       7=Extremely",instruct,,,,,
 HSP1,Are you easily overwhelmed by strong sensory input?,likert,1|2|3|4|5|6|7,1|2|3|4|5|6|7,1,No,
 HSP2,Do you seem to be aware of subtleties in your environment?,likert,1|2|3|4|5|6|7,1|2|3|4|5|6|7,1,No,
 HSP3,Do other people's moods affect you?,likert,1|2|3|4|5|6|7,1|2|3|4|5|6|7,1,No,

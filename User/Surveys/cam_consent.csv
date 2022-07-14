@@ -1,4 +1,4 @@
-item_name,text,type,answers,values,optional,question_width,side_by_side,
+item_name,text,Type,Answers,Values,Optional,question_width,side_by_side,
 Instructions1,"<b>Participant Consent
 </b><br>
 Interactive form for on-line consent 
@@ -18,8 +18,8 @@ Researcher: 	Trishita Barua
 Supervisor: 	Dr. Indu Dubey
 <br>
 Ethics Reference Number: DPAP - 2022 - 2883 - 3
-<br>",instruct,,,,,,
-Instructions2,Please select the following statements if you agree with them. Please feel free to withdraw at any point.,instruct,,,,,,
+<br>",Instruct,,,,,,
+Instructions1,Please select the following statements if you agree with them. Please feel free to withdraw at any point.,Instruct,,,,,,
 cam_consent_1,1. Have you read and understood the Participant Information?,checkbox,Yes,1,No,70%,yes,
 cam_consent_2,2. Do you agree to take part in the online questionnaire and choose-a-movie task about the role of anxiety in autism?,checkbox,Yes,1,No,70%,yes,
 cam_consent_3,3. Do you know how to contact the researcher if you have questions about this study?,checkbox,Yes,1,No,70%,yes,

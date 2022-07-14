@@ -1,4 +1,4 @@
-item_name,text,Type,Answers,Values,Score: LSAS_total_Fear,Score: Performance_Anxiety,Score: Social_Anxiety,Score: LSAS_Avoidance,Score: Performance_Avoidance,Score: Social_Avoidance,Optional,
+item_name,text,Type,Answers,Values,score:lsas_total_fear,score:performance_anxiety,score:social_anxiety,score:lsas_avoidance,score:performance_avoidance,score:social_avoidance,Optional,
 Instructions1,"Choose one response that best describes how strongly each item applies to you: <br>For each sentence given below please choose: how much do you generally fear or feel anxious facing these using score 0= None to 3= Severe, and how much would you generally avoid them using score 0=Never to 3 = Usually.",instruct,,,,,,,,,,
 LSAS1,Telephoning in public.,instruct,,,,,,,,,,
 LSAS1_feel,How much do you generally fear or feel anxious facing this:,likert,None| Mild| Moderate| Severe,0|1|2|3,1,1,,,,,No,

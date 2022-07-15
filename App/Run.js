@@ -262,10 +262,7 @@ Project = {
       var clean_phase_responses = {};
 
       Object.keys(phase_responses).forEach(function(old_key){
-
-        clean_phase_responses[old_key] =
-          phase_responses[old_key];
-
+        clean_phase_responses[old_key] = phase_responses[old_key];
       });
       delete(clean_phase_responses[
         "condition_redcap_url"
@@ -325,6 +322,22 @@ Project = {
         0
       );
       /*
+      Object.keys(phase_responses).forEach(function(old_key){
+
+        Object.defineProperty(
+          phase_responses,
+          this_location + "_" + old_key,
+          Object.getOwnPropertyDescriptor(
+            phase_responses,
+            old_key
+          )
+        );
+        delete phase_responses[old_key];
+      });
+      */
+
+
+      console.log("just before the ajax");
       $.ajax({
         type: "POST",
         url: project_json.this_condition.redcap_url,
@@ -335,7 +348,6 @@ Project = {
           console.log(result);
         }
       });
-      */
     }
 
     switch (Project.get_vars.platform) {
@@ -544,6 +556,7 @@ project_json.this_phase["post_"+project_json.post_no+"_phase_start_ms"] = (new D
         .find(".post_iframe")
         .contents()
         .find("body")
+        .prepend('<button style="opacity:0; filter: alpha(opacity=0)" id="keyresponse_autofocus"></button>') // {CGD} Do not move, needs to prepend displayed HTML or autofocus scrolls to bottom on load
         .css("transform-origin", "top");
 
       try {
@@ -555,10 +568,10 @@ project_json.this_phase["post_"+project_json.post_no+"_phase_start_ms"] = (new D
             "scale(" + parent.parent.current_zoom + ")";
 
           if (isFirefox) {
-            this_iframe_style.width =
-              window.innerWidth / parent.parent.current_zoom;
-            this_iframe_style.height =
-              window.innerHeight / parent.parent.current_zoom;
+            this_iframe_style.width = (window.innerWidth * 0.98) / parent.parent.current_zoom;  // {CGD} adjusted all width/height to just under fullscreen to counter scroll bar issue
+            this_iframe_style.height = (window.innerHeight * 0.98)  / parent.parent.current_zoom;
+            this_iframe_style.maxWidth = (window.innerWidth * 0.97) / parent.parent.current_zoom;
+            this_iframe_style.maxHeight = (window.innerHeight * 0.97)  / parent.parent.current_zoom;
             this_iframe_style.transformOrigin = "left top";
           } else {
             this_iframe_style.width = "100%";
@@ -577,8 +590,9 @@ project_json.this_phase["post_"+project_json.post_no+"_phase_start_ms"] = (new D
         .contents()
         .find("#post" + project_json.post_no)
         .contents()
-        .find("#zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz")
-        .focus(); //or anything that no-one would accidentally create.
+        .find("#keyresponse_autofocus") //.append("<input type='hidden' name='complete' value='0' />") // {CGD} used to set REDCap completion value so records are green on data input
+        .focus() //or anything that no-one would accidentally create.
+        .css('outline', 'none');
 
       //detect if max_time exists and start timer
       var post_val;
@@ -855,12 +869,7 @@ function final_phase() {
               $("#project_div").html(
                 "<h1>Thank you for participating. If you'd like to download your raw data <span id='download_json'>click here</span></h1>"
               );
-              $("#download_json").on("click", function () {
-                precrypted_data(
-                  project_json,
-                  "What do you want to save this file as?"
-                );
-              });
+
               //$("#participant_country").show();
               //$("#participant_country").load("ParticipantCountry.html");
               window.localStorage.removeItem("project_json");
@@ -878,6 +887,12 @@ function final_phase() {
           }
         }, 1000);
       }
+      $("#download_json").on("click", function () {
+        precrypted_data(
+          project_json,
+          "What do you want to save this file as?"
+        );
+      });
       //online_save_check();
       break;
     case "localhost":
@@ -1901,9 +1916,8 @@ function write_phase_iframe(index) {
 
   for (let i = 0; i < phase_events.length; i++) {
     var phase_content = Project.generate_phase(index, i);
-    phase_content +=
-      "<button style='opacity:0; filter: alpha(opacity=0)' id='zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'></button>";
-
+      // phase_content +=
+      '<button style="opacity:0; filter: alpha(opacity=0)" id="zzz"></button>' + phase_content;
     doc = document
       .getElementById("phase" + index)
       .contentWindow.document.getElementById("post" + i).contentWindow;

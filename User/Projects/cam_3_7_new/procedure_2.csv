@@ -13,6 +13,5 @@ item,phasetype,max_time,text,shuffle_1,survey,left_back,right_back,lock_img,lock
 32 to 61,cam_3,,,trial,,../User/Stimuli/cam/red.jpg,../User/Stimuli/cam/blue.jpg,../User/Stimuli/cam/lock1.jpg,1000,../User/Stimuli/cam/lock1_crossed_out.jpg,red,blue,nonsocial,social,Press Z to unlock,Press M to unlock,
 0,survey,,,off,autism_quotient.csv,,,,,,,,,,,,
 0,survey,,,off,sas_ant.csv,,,,,,,,,,,,
-0,instruct,,"<span style=""font-size:40px""><b>You've completed this part of the study! </span></b><br><br> 
-<span style=""font-size:25px""><b>You will receive a debrief of this study in an email.</span></b><br><br>
-<span style=""font-size:25px""><b>Please proceed and DO NOT CLOSE THE WINDOW until you are told that the data has been succesfully sent. </span></b>",off,,,,,,,,,,,,,
+0,instruct,,"<span style=""font-size:40px""><b>Click on ""Proceed"" to save your data. </span></b><br><br> 
+<span style=""font-size:25px""><b>Thank you. You've completed this part of the study! </span></b><br><br>",off,,,,,,,,,,,,,
